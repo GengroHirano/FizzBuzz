@@ -1,5 +1,4 @@
 #!/bin/sh
-<<<<<<< HEAD
 x=0
 echo "数字を入力してください"
 read inRead
